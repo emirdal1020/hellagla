@@ -79,8 +79,8 @@ client.unload = command => {
 };
 
 client.on('message', msg => {
-  if (msg.content.toLowerCase() === 'sa') {
-    msg.reply('Aleyküm selam,  hoş geldin ^^');
+  if (msg.content.toLowerCase() === 'velactus') {
+    msg.reply('eu.velactus.club Pek Yakinda!');
   }
 });
 
