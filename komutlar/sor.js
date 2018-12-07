@@ -1,9 +1,9 @@
-const Discord = require('discord.js');
-const client = new Discord.Client();
-const Cleverbot = require('cleverbot-node');
-const clbot = new Cleverbot;
-
-exports.run = (client, message, args) => {
+const Discord =ggsdgsdgsdgsdg< as
+fas
+ fasf
+  as
+  fads1gda
+  ,gv,sdigç, xcşçvilsgç dafagasg
 	talkedRecently.add(message.author.id);
   setTimeout(() => {
     talkedRecently.delete(message.author.id);
